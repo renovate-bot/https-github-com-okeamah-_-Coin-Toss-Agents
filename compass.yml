@@ -1,0 +1,16 @@
+name: Coin-Toss-Agents
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/16562346-127d-493d-b1ce-7770d51278dd
+description: is an intelligent virtual assistant built using AgentVerseAI, designed to simulate and analyze the outcome of coin tosses. This agent provides a playful yet robust tool for simulating probability-based decisions or simply enjoying a fair coin flip.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/Coin-Toss-Agents
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
